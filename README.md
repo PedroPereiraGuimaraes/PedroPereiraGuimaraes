@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro Pereira Guimarães
 
-<img align='right' src="https://media0.giphy.com/media/OMrq9FmUgObwogeL06/giphy.gif?cid=ecf05e47sid856t2autt42z579x5sttr22bp5ekefl58fbob&rid=giphy.gif&ct=g" width="190">
+<img align='right' src="https://media0.giphy.com/media/OMrq9FmUgObwogeL06/giphy.gif?cid=ecf05e47sid856t2autt42z579x5sttr22bp5ekefl58fbob&rid=giphy.gif&ct=g" width="180">
 
 ## ℹ️ Sobre mim
   - Brasileiro 🇧🇷 🟢🟡
