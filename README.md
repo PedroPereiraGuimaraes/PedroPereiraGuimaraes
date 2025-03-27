@@ -1,10 +1,5 @@
 ### Olá! Eu sou o Pedro Pereira Guimarães
 
-## ℹ️ Sobre mim
-  - Brasileiro 🇧🇷 🟢🟡
-  - Estudante de Engenharia de Computação no [Inatel](https://inatel.br/home/)💻
-
-<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
 <a href="https://github.com/PedroPereiraGuimaraes?tab=repositories&sort=stargazers">    
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=E3CD00&labelColor=23333&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PedroPereiraGuimaraes"/></a>
