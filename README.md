@@ -7,52 +7,36 @@ Experienced in cloud environments, Kubernetes orchestration and CI/CD pipelines,
 
 ### 💼 Work Experience
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img height="64px" width="64px" style="border-radius: 12px;" src="https://media.licdn.com/dms/image/v2/C4D0BAQGhr-e_IjSS6g/company-logo_200_200/company-logo_200_200/0/1674057654335/safelabsbr_logo?e=2147483647&v=beta&t=7AZbyV96K4RL-1d6iT3JP2VINzHo8RCYHNpTjflnhxY"/>
-
-  <div>
-    <strong>DevOps Engineer</strong><br/>
-    <strong>Safelabs</strong> • Full-time<br/>
-    <em>Oct 2025 – Present</em><br/>
-  </div>
-</div>
-
-
-<br/>
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img height="64px" width="64px" style="border-radius: 12px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbup5NbH1SJ9Z-B3q8jd4_FhTMUSyu8MLYbQ&s"/>
-
-  <div>
-    <strong>DevOps Engineer</strong><br/>
-    <strong>4intelligence</strong> • Full-time<br/>
-    <em>Jan 2025 – Sep 2025</em><br/>
-  </div>
-</div>
-
-<br/>
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img height="64px" width="64px" style="border-radius: 12px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbup5NbH1SJ9Z-B3q8jd4_FhTMUSyu8MLYbQ&s"/>
-
-  <div>
-    <strong>DevOps Intern</strong><br/>
-    <strong>4intelligence</strong> • Internship<br/>
-    <em>Oct 2023 – Jan 2025</em><br/>
-  </div>
-</div>
-
-<br/>
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img height="64px" width="64px" style="border-radius: 12px;" src="https://media.glassdoor.com/sqll/1046814/inatel-competence-center-squareLogo-1615204678215.png"/>
-
-  <div>
-    <strong>Scholarship Holder / Teaching Assistant</strong><br/>
-    <strong>INATEL</strong><br/>
-    <em>Mar 2021 – Oct 2023</em><br/>
-  </div>
-</div>
+```json
+{
+  "experience": [
+    {
+      "role": "DevOps Engineer",
+      "company": "Safelabs",
+      "type": "Full-time",
+      "period": "Oct 2025 - Present",
+    },
+    {
+      "role": "DevOps Engineer",
+      "company": "4intelligence",
+      "type": "Full-time",
+      "period": "Jan 2025 - Sep 2025",
+    },
+    {
+      "role": "DevOps Intern",
+      "company": "4intelligence",
+      "type": "Internship",
+      "period": "Oct 2023 - Jan 2025",
+    },
+    {
+      "role": "Scholarship Holder / Teaching Assistant",
+      "company": "INATEL",
+      "type": "Academic",
+      "period": "Mar 2021 - Oct 2023",
+    }
+  ]
+}
+```
 
 ---
 
