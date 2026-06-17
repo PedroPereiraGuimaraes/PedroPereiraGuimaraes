@@ -12,9 +12,15 @@ Experienced in cloud environments, Kubernetes orchestration and CI/CD pipelines,
   "experience": [
     {
       "role": "DevOps Engineer",
+      "company": "Inatel",
+      "type": "Full-time",
+      "period": "May 2026 - Present",
+    },
+    {
+      "role": "DevOps Engineer",
       "company": "Safelabs",
       "type": "Full-time",
-      "period": "Oct 2025 - Present",
+      "period": "Oct 2025 - May 2026",
     },
     {
       "role": "DevOps Engineer",
